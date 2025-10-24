@@ -1,0 +1,1 @@
+*this is a compiler to turn normal html, css and javascript into a gtk app. it uses gtk (of course) and GJS (i didnt want to rewrite all that javascript stuff)*
