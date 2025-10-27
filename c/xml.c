@@ -3,6 +3,9 @@
 #include <stdio.h>
 #include <string.h>
 
+#include "praser.h"
+#include "builder.h"
+
 int makefile(char *filename) {
 
     char fileName[258];
